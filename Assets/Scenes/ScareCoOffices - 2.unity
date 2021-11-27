@@ -29570,6 +29570,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WoodenBarrier_09_v1
       objectReference: {fileID: 0}
+    - target: {fileID: 774362768349932356, guid: 4d77b47f753caf24493215b264f25ad6,
+        type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 951860035974201726, guid: 4d77b47f753caf24493215b264f25ad6,
         type: 3}
       propertyPath: m_RootOrder
